@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-CAN ADD MORE INFO
+CAN ADD MORE INFO 
+Treat this as if it is a html webpage
 **cyl74/cyl74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
